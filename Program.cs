@@ -108,6 +108,9 @@ FillImage(13,13);
 PrintImage(pic);*/
 
 
+
+
+
 ////////// Факториал!!! 
 /*
 double Factorial(int n)
@@ -125,6 +128,11 @@ for (int i = 1; i < 40; i++)
 {
     Console.WriteLine($"{i}! = {Factorial(i)}");
 }*/
+
+
+
+
+
 
 
 //f(1) = 1
